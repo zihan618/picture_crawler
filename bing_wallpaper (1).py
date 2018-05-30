@@ -1,4 +1,11 @@
 
+# coding: utf-8
+
+# In[5]:
+
+
+import requests
+import lxml.etree as etree
 import os
 import hashlib
 from urllib.parse import urljoin
